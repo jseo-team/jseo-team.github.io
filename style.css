@@ -1,7 +1,8 @@
 body {
     font-size: 35pt;
     color:#eff;
-    background:
-       url('images.jpeg') no-repeat;
+    background-image: url('2020.jpg');
+    border: 5px solid white;
+    background-size: 100% 100%;
   }
 
