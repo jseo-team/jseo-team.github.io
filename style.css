@@ -1,4 +1,7 @@
-body
-{
- background:url('images.jpg') no-repeat;
-} 
+body {
+    font-size: 15pt;
+    color:#eff;
+    background:
+       url('images.jpeg') no-repeat;
+  }
+
