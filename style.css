@@ -1,5 +1,14 @@
+
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spartan/v2/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrHbuV6JABTPfJqT.woff2) format('woff2');
+} 
 body {
     font-size: 35pt;
+    font-family: Spartan;
     color:#eff;
     background-image: url('20200825_235204.jpg' );
     border: 5px solid white;
