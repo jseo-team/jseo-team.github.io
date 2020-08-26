@@ -1,9 +1,6 @@
 
 @font-face {
   font-family: 'Jura';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
   src: url(http://fonts.gstatic.com/s/jura/v14/z7NOdRfiaC4Vd8hhoPzfb5vBTP266pumR_g.woff2)  format('woff2');
 } 
 body {
