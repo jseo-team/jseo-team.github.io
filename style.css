@@ -1,10 +1,12 @@
 
 @font-face {
-  font-family: 'Spartan';
+  font-family: 'Jura';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/spartan/v2/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrHbuV6JABTPfJqT.woff2) format('woff2');
+  src: url(
+
+s://fonts.gstatic.com/s/jura/v14/z7NOdRfiaC4Vd8hhoPzfb5vBTP266pumR_g.woff2)  format('woff2');
 } 
 body {
     font-size: 35pt;
