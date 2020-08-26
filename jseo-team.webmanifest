@@ -1,0 +1,53 @@
+{
+	"name": "JSEO",
+	"short_name": "JSEO",
+	"description": "Self-hosted IRC script",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#415364",
+	"background_color": "#415364",
+	"icons": [
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/jpeg",
+			"purpose": "maskable any",
+			"sizes": "120x120"
+		},
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/jpeg",
+			"purpose": "maskable any",
+			"sizes": "152x152"
+		},
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/png",
+			"purpose": "maskable any",
+			"sizes": "167x167"
+		},
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/jpeg",
+			"purpose": "maskable any",
+			"sizes": "180x180"
+		},
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/jpeg",
+			"purpose": "maskable any",
+			"sizes": "192x192"
+		},
+		{
+			"src": "code-280-460136.jpg",
+			"type": "image/jpg",
+			"purpose": "maskable any",
+			"sizes": "512x512"
+		},
+		{
+			"src": "code.svg",
+			"type": "image/svg+xml",
+			"purpose": "maskable any",
+			"sizes": "513x513"
+		}
+	]
+}
