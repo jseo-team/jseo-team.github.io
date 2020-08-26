@@ -4,13 +4,11 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(
-
-s://fonts.gstatic.com/s/jura/v14/z7NOdRfiaC4Vd8hhoPzfb5vBTP266pumR_g.woff2)  format('woff2');
+  src: url(http://fonts.gstatic.com/s/jura/v14/z7NOdRfiaC4Vd8hhoPzfb5vBTP266pumR_g.woff2)  format('woff2');
 } 
 body {
     font-size: 35pt;
-    font-family: Spartan;
+    font-family: Jura;
     color:#eff;
     background-image: url('20200825_235204.jpg' );
     border: 5px solid white;
