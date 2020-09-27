@@ -19,4 +19,6 @@ header {
     border: 5px solid white;
     background-size: 100% 100%;
   }
-
+docs {
+   padding:80px;
+}
