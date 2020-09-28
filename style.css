@@ -11,15 +11,24 @@
 body {
     font-size: 25pt;
     font-family: Jra;
-    color:#eff;
-    background-color:#012;
+    color:#222;
+    background-color:#fff;
 }
 
-header {
+a
+{
+  text-decoration:none;
+  color:#000;
+}
+
+header 
+{
     background-image: url('20200825_235204.jpg' );
     border: 5px solid white;
     background-size: 100% 100%;
-  }
-docs {
+}
+
+docs 
+{
    padding:20px;
 }
