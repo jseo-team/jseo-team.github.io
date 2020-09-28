@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Jra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/jura/v15/z7NOdRfiaC4Vd8hhoPzfb5vBTP1d7ZumR_iJHOrs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+    font-size: 25pt;
+    font-family: Jra;
+    color:#222;
+    background-color:#fff;
+}
+
+a
+{
+  text-decoration:none;
+  color:#000;
+}
+
+header 
+{
+    background-image: url('20200825_235204.jpg' );
+    border: 5px solid white;
+    background-size: 100% 100%;
+}
+
+docs 
+{
+   padding:20px;
+}
