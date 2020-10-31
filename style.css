@@ -12,7 +12,8 @@ body {
     font-size: 25pt;
     font-family: Jra;
     color:#eff;
-    background-color:#012;
+    background-color:#222;
+J
 }
 
 a
@@ -23,7 +24,7 @@ a
 
 header 
 {
-    background-image: url('20200825_235204.jpg' );
+    display:none;
     border: 5px solid white;
     background-size: 100% 100%;
 }
