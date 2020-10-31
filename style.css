@@ -12,7 +12,9 @@ body {
     font-size: 25pt;
     font-family: Jra;
     color:#eff;
-    background-color:#222;
+    background-image:url('blue-iphone-wallpaper.jpg');
+    background-repeat:no-repeat;
+    background-size:cover; 
 J
 }
 
