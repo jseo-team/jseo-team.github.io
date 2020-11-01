@@ -11,7 +11,7 @@
 body {
     font-size: 25pt;
     font-family: Jra;
-    color:#66e; 
+    color:#667; 
   background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(203 ,212,214,1) 98%);
    
 
@@ -20,7 +20,7 @@ body {
 a
 {
   text-decoration:none;
-  color:#667;
+  color:#66e;
 }
 
 header 
