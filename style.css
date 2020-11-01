@@ -11,10 +11,10 @@
 body {
     font-size: 25pt;
     font-family: Jra;
-    color:#eff;
-    background-image:url('_20201101_075919.JPG');
-    background-size:cover; 
-J
+    color:#eff; 
+  background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(203 ,212,214,1) 98%);
+   
+
 }
 
 a
