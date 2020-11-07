@@ -13,8 +13,6 @@ body {
     font-family: Jra;
     color:#667; 
   background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(201 ,202,203,1) 98%);
-   
-
 }
 
 a
@@ -34,3 +32,6 @@ docs
 {
    padding:20px;
 }
+
+iframe
+{ border:6px white; }
