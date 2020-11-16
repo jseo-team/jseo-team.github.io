@@ -12,7 +12,9 @@ body {
     font-size: 25pt;
     font-family: Jra;
     color:#667; 
-    background:#f0f0f0;
+    background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(201 ,202,203,1) 98%);
+    
+
 }
 nobody{
   background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(201 ,202,203,1) 98%);
@@ -35,6 +37,3 @@ docs
 {
    padding:20px;
 }
-
-iframe
-{ border:6px white; }
