@@ -20,6 +20,10 @@ nobody{
   background: radial-gradient(circle, rgba(255,255, 255,1), rgba(220, 220,220) 71%, rgba(201 ,202,203,1) 98%);
 }
 
+docs{
+overflow-x:scroll;
+}
+
 a
 {
   text-decoration:none;
